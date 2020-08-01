@@ -12,8 +12,8 @@
 	<groupId>com.product</groupId>
 	<artifactId>INGSuite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>INGSuite</name>
-	<description>ING Suite of Products </description>
+	<name>Sloka uite</name>
+	<description>Sloka Suite of Products </description>
 
 	<properties>
 		<java.version>1.8</java.version>
