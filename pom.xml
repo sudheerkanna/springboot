@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.product</groupId>
-	<artifactId>INGSuite</artifactId>
+	<artifactId>DBSuite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Sloka uite</name>
 	<description>Sloka Suite of Products </description>
