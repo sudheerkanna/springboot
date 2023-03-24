@@ -1,5 +1,1 @@
-fdfsd
-fasdfads
-
-https://github.com/kishoregardas/springboot.git
-sudheer
+Fetch build and deploy
