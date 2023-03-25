@@ -1,2 +1,2 @@
 Fetch build and deploy.
-Dev ops
+Devops
