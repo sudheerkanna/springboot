@@ -1,2 +1,2 @@
-Fetch build and deploy.
-Devops.
+Fetch build and deploy
+Devops
